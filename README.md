@@ -1,1 +1,1 @@
-This is a calc made of php with using java I created this using HTML,CSS,JAVA its very simple to use this code. 
+This calculator project made with using PHP,javascipt,HTML,CSS and it is very simple to use. 
